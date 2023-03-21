@@ -1,0 +1,77 @@
+[
+  {
+    "id" : 1,
+    "name" : "Ouassima Akasmiou",
+    "phone_profile": "0628294375",
+    "email" : "ouassima@gmail.com",
+    "profession": "Software enginner",
+    "image" : "image1"
+  },
+  {
+    "id" : 2,
+    "name" : "Mohamed Mouwakil",
+    "phone_profile": "0632687398",
+    "email" : "Mohamed@gmail.com",
+    "profession": "Project Manage",
+    "image" : "image2"
+  },
+  {
+    "id" : 3,
+    "name" : "Fouad alami",
+    "phone_profile": "0734455618",
+    "email" : "fouad48@gmail.com",
+    "profession": "Mobile Engineer",
+    "image" : "image3"
+
+  },
+  {
+    "id" : 4,
+    "name" : "Oualid El khaladi",
+    "phone_profile": "06785643413",
+    "email" : "Oualid@gmail.com",
+    "profession": "Sales Engineer",
+    "image" : "image4"
+  },
+  {
+    "id" : 5,
+    "name" : "Maryam Boughlala",
+    "phone_profile": "0628098765",
+    "email" : "mariem@gmail.com",
+    "profession": "DevOps Engineer",
+    "image" : "image5"
+  },
+  {
+    "id" : 6,
+    "name" : "Raouan mousa",
+    "phone_profile": "0626896745",
+    "email" : "r.mousa@gmail.com",
+    "profession": "System Architect",
+    "image" : "image6"
+  },
+  {
+    "id" : 7,
+    "name" : "nousaif Elkheir",
+    "phone_profile": "0734455667",
+    "email" : "nousaif@gmail.com",
+    "profession": "Professor",
+    "image" : "image7"
+  },
+  {
+    "id" : 8,
+    "name" : "Anass ",
+    "phone_profile": "0767980268",
+    "email" : "anass@gmail.com",
+    "profession": "Software Engineer",
+    "image" : "image8"
+  },
+  {
+    "id" : 9,
+    "name" : "Majid moutawakil",
+    "phone_profile": "0625435089",
+    "email" : "majid6437@gmail.com",
+    "profession": "Cooker",
+    "image" : "image9"
+  }
+
+]
+
